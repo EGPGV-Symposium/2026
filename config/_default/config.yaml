@@ -5,6 +5,7 @@
 
 title: EGPGV 2026 # Website name
 baseURL: 'https://egpgv-symposium.github.io/2026/' # Website URL
+publishDir: "docs"
 
 ############################
 ## LANGUAGE
