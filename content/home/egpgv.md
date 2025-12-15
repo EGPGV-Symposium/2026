@@ -19,7 +19,7 @@ design:
 #   css_class: fullscreen
 ---
 
-Nottingham, Uniter Kingdom, 2025-06-08
+Nottingham, Uniter Kingdom, 2026-06-08
 
 EGPGV 2026 is co-located with EuroVis 2026.
 Please find information on the venue, accommodation, and registration on www.eurovis.org
