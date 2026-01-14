@@ -15,10 +15,14 @@ item:
         url: 'https://new.precisionconference.com'
         date_start: '2026-01-30'
         description: Submissions are handled via <a href="submit" taget="_blank">PCS</a>.
-      - title: Paper Deadline 
+      - title: Paper deadline 
         date_start: '2026-02-06'
-      - title: Notification of Acceptance
+      - title: Notification of results of first review cycle
         date_start: '2026-03-25'
-    #   - title: Camera Ready Version Due
-    #     date_start: '2023-04-19'
+      - title: Revised paper submission for second review cycle
+        date_start: '2026-04-03'
+      - title: Final notification
+        date_start: '2026-04-21'
+      - title: Camera ready version due
+        date_start: '2026-05-10'
 ---

@@ -13,7 +13,7 @@ The proceedings of EGPGV will be published in the Eurographics Proceedings Serie
 
 EGPGV seeks papers on graphics and visualization that involve parallel computing and/or focus on very large data sets. Papers on techniques, data structures, algorithms, systems, and applications are welcomed. Parallel computing includes high-performance computing and cloud environments, (multi-)GPU computing and heterogeneous, hybrid architectures, and shared and/or distributed memory architectures. Further, papers focused on processing very large data sets (either for visualization or graphics) are welcomed, even if they do not have a particular focus on parallelism.
 
-Typical symposium topics include:
+## Typical symposium topics include:
 
 - Computationally and data-intensive rendering
 - Scientific visualization (e.g., volume, flow, and tensor visualization)
@@ -44,19 +44,20 @@ In general, appropriate topics for the symposium fall into one of four categorie
 (3) parallel visualization and analytics, and  
 (4) processing of large data sets for visualization or analytics.  
 
-Submission types:
+## Submission types:
 - Full Papers (8 to 10 pages) in Eurographics format (+1 page for references)
 - Short Papers (up to 4 pages) in Eurographics format (+1 page for references)
 
-Important Dates:
+## Important Dates:
 
 Abstract Deadline: January 30, 2026\
 Submission Deadline: February 6, 2026
 
 If you would like more information, please don't hesitate to contact the Program Co-Chairs via papers@egpgv.org.
 
-EGPGV Leadership:
+## EGPGV Leadership:
 
 Symposium Chair: Silvio Rizzi, Argonne National Laboratory, USA\
-Program Co-Chair: Charles Gueunet, IconCFD, France\
-Program Co-Chair: Soumya Dutta, IIT Kanpur, India
+Program Co-Chair: Soumya Dutta, IIT Kanpur, India\
+Program Co-Chair: Charles Gueunet, IconCFD, France
+

@@ -15,7 +15,7 @@ In both cases, you may _add up to one full page_ for references.
 ---
 # Submission
 
-Submissions will be handled through the PCS System. Please make sure to check this web site for updated submission information.
+Submissions will be handled through the Precision Conference Solutions (PCS) System. For submitting paper, please login to PCS system following this link: [PCS](https://new.precisionconference.com/user/login)
 
 - All deadlines use the Anywhere on Earth (AoE) timezone.
 - You can find the updated LaTeX template [here](../uploads/egPublStyle-PGV2026.zip).
