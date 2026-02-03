@@ -26,8 +26,8 @@ organizers:
     - title: STUDENT PROGRAM CHAIR
       weight: 3
       item:
-        - title: TBD
-          affiliation: TBD
+        - title: Muzafar Ahmad Wani
+          affiliation: IIT Kanpur, India
           weight: 1
     - title: INTERNATIONAL PROGRAM COMMITTEE
       weight: 4
@@ -68,10 +68,16 @@ organizers:
           affiliation: NVIDIA, United States
         - title: Abhishek Yenpure
           affiliation: Kitware, United States
-    - title: INTERNATIONAL STUDNET PROGRAM COMMITTEE
+    - title: INTERNATIONAL STUDENT PROGRAM COMMITTEE
       weight: 5
       item:
-        - title: TBD
-          affiliation: TBD
+        - title: Johansell Villalobos
+          affiliation: Centro Nacional de Alta Tecnología, Costa Rica
+        - title: Matheus M. Costa
+          affiliation: Universidade Federal do Rio Grande do Sul, Brazil
+        - title: Kaiyuan Tang
+          affiliation: University of Notre Dame, USA
+
+
 
 ---
