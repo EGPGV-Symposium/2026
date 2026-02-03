@@ -50,7 +50,7 @@ In general, appropriate topics for the symposium fall into one of four categorie
 
 ## Important Dates:
 
-Abstract Deadline: February 6, 2026 (extended)\
+Abstract Deadline: February 6, 2026 (extended) (Abstract submission is not mandatory but recommended)\
 Submission Deadline: February 13, 2026 (extended)
 
 If you would like more information, please don't hesitate to contact the Program Co-Chairs via papers@egpgv.org.

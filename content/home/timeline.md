@@ -11,7 +11,7 @@ item:
   - title: Submission Deadlines
     weigth: 2
     item:
-      - title: Abstract deadline (extended)
+      - title: Abstract deadline (extended) (Abstract submission is not mandatory but recommended)
         url: 'https://new.precisionconference.com'
         date_start: '2026-02-06'
         description: Submissions are handled via <a href="submit" taget="_blank">PCS</a>.
