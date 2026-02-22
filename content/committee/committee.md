@@ -77,6 +77,8 @@ organizers:
           affiliation: Universidade Federal do Rio Grande do Sul, Brazil
         - title: Kaiyuan Tang
           affiliation: University of Notre Dame, USA
+        - title: Manish Mathai
+          affiliation: University of Oregon, USA
 
 
 
