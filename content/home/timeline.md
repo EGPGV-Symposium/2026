@@ -11,18 +11,14 @@ item:
   - title: Submission Deadlines
     weigth: 2
     item:
-      - title: Abstract deadline (extended) (Abstract submission is not mandatory but recommended)
+      - title: Abstract deadline (extended)
         url: 'https://new.precisionconference.com'
         date_start: '2026-02-06'
         description: Submissions are handled via <a href="submit" taget="_blank">PCS</a>.
       - title: Paper deadline (extended) 
         date_start: '2026-02-13'
-      - title: Notification of results of first review cycle
-        date_start: '2026-03-25'
-      - title: Revised paper submission for second review cycle
-        date_start: '2026-04-03'
-      - title: Final notification
-        date_start: '2026-04-21'
+      - title: Final notification of results
+        date_start: '2026-03-28'
       - title: Camera ready version due
-        date_start: '2026-05-10'
+        date_start: '2026-04-30'
 ---
