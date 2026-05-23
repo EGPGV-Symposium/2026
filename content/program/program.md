@@ -57,11 +57,11 @@ experience:
     date_start: '2026-06-08T11:00:00'
     date_end: '2026-06-08T12:15:00'
     description: |
-      * 11:00-11:25: <span style="text-decoration:underline">Makani Buckley</span>, Kenneth Moreland, Hank Childs:<br/>
+      * 11:00-11:25: <span style="text-decoration:underline">Makani Buckley</span>, Kenneth Moreland, Hank Childs<br/>
         _Rasterization with Data-Parallel Primitives_
-      * 11:25-11:50: <span style="text-decoration:underline">Adrian Kreskowski</span>, Gunter Rendle, Bernd Fröhlich:<br/>
+      * 11:25-11:50: <span style="text-decoration:underline">Adrian Kreskowski</span>, Gareth Rendle, Bernd Fröhlich<br/>
         _Real-Time Meshlet Extraction from Scalar Volumes_
-      * 11:50-12:15: <span style="text-decoration:underline">Ole Wegen</span>, Sandro Steeger, Willy Scheibel, Rico Richter, Jürgen Döllner:<br/>
+      * 11:50-12:15: <span style="text-decoration:underline">Ole Wegen</span>, Sandro Steeger, Willy Scheibel, Rico Richter, Jürgen Döllner<br/>
         _Out-of-Core Rendering of Multi-Temporal Point Clouds_
   - title: Closing
     date_start: '2025-06-02T12:15:00'
