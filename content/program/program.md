@@ -59,7 +59,7 @@ experience:
     description: |
       * 11:00-11:25: <span style="text-decoration:underline">Makani Buckley</span>, Kenneth Moreland, Hank Childs<br/>
         _Rasterization with Data-Parallel Primitives_
-      * 11:25-11:50: <span style="text-decoration:underline">Adrian Kreskowski</span>, Gareth Rendle, Bernd Fröhlich<br/>
+      * 11:25-11:50: <span style="text-decoration:underline">Adrian Kreskowski</span>, Gareth Rendle, Bernd Froehlich<br/>
         _Real-Time Meshlet Extraction from Scalar Volumes_
       * 11:50-12:15: <span style="text-decoration:underline">Ole Wegen</span>, Sandro Steeger, Willy Scheibel, Rico Richter, Jürgen Döllner<br/>
         _Out-of-Core Rendering of Multi-Temporal Point Clouds_
