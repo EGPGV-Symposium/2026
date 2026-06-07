@@ -38,7 +38,7 @@ jobs:
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.142.5'
+          hugo-version: '0.142.0'
           extended: true # Essential for processing Sass/SCSS in modern themes
 
       - name: Build with Hugo
