@@ -63,6 +63,7 @@ experience:
         _Out-of-Core Rendering of Multi-Temporal Point Clouds_
       * 11:50-12:15: <span style="text-decoration:underline">Makani Buckley</span>, Kenneth Moreland, Hank Childs<br/>
         _Rasterization with Data-Parallel Primitives_
+  
   - title: Closing
     date_start: '2025-06-02T12:15:00'
     date_end: '2025-06-02T12:30:00'
