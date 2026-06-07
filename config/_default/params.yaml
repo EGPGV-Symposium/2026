@@ -21,7 +21,7 @@ marketing:
     description: "EGPGV'26 -- held in conjunction with EuroVis 2026"
     twitter: ''
   analytics:
-    google_analytics: ''
+#    google_analytics: ''
     baidu_tongji: ''
   verification:
     google: ''
